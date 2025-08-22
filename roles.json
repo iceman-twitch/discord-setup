@@ -1,0 +1,11 @@
+{
+    "roles": [
+        {
+            "name": "Admin",
+            "permissions": {
+                "administrator": true
+            },
+            "color": "0xFF0000"
+        }
+    ]
+}

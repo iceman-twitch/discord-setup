@@ -1,0 +1,29 @@
+{
+    "non_category_channels": [
+        {
+            "name": "welcome",
+            "type": "text",
+            "position": 0,
+            "permissions": [
+                {
+                    "role_id": "GUILD_ID",
+                    "permissions": {
+                        "send_messages": false
+                    }
+                }
+            ]
+        }
+    ],
+    "categories": [
+        {
+            "name": "Text Channels",
+            "position": 1,
+            "channels": [
+                {
+                    "name": "general",
+                    "type": "text"
+                }
+            ]
+        }
+    ]
+}
